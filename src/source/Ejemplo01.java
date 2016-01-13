@@ -10,5 +10,7 @@ package source;
  * @author usuariojr
  */
 public class Ejemplo01 {
-    
+    public void Ejemplo01(){
+        
+    }
 }
